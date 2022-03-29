@@ -9,11 +9,11 @@ I mainly use Discord for my projects. (Shortcake sweets#1326)
    Currently using Discord / Slack for this project.
 
 #### Finished Projects
-    [Bard seeded TAS](https://github.com/shortcakesweets/Bard-seeded-tas)
-    BuffExtracter ( This is on private )
+ - [Bard seeded TAS](https://github.com/shortcakesweets/Bard-seeded-tas)
+ - BuffExtracter ( This is on private )
 
 #### Discarded Projects
-    [CoTN stat recorder](https://github.com/shortcakesweets/CoTN-stat-recorder)
+ - [CoTN stat recorder](https://github.com/shortcakesweets/CoTN-stat-recorder)
 
 
 <!--
