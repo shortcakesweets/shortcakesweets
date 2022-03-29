@@ -14,6 +14,7 @@ I mainly use Discord for my projects. (Shortcake sweets#1326)
  - [Crypt of The Necrodancer Stat Graph](https://colab.research.google.com/drive/19evPfLMBUT5SNYgWx0XedSdATOR2UBLy?usp=sharing)
 
     Made on google colab. All the data are from : Warachia's [NecroRankings](https://github.com/Warachia2/NecroRankings)
+ - [Necrodancer priority Wordle](https://github.com/shortcakesweets/necro-wordle)
 
 
 #### Discarded Projects
