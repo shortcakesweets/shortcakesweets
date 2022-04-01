@@ -7,6 +7,8 @@ I mainly use Discord for my projects. (Shortcake sweets#1326)
    HAJE team #project_wordle_online is making a multiplayer wordle!
    
    Currently using Discord / Slack for this project.
+   
+ - [Necrodancer PB archive](https://github.com/shortcakesweets/Necrobot-RankingDetector)
 
 #### Finished Projects
  - [Bard seeded TAS](https://github.com/shortcakesweets/Bard-seeded-tas)
