@@ -6,6 +6,7 @@ I mainly use Discord for my projects. (Shortcake sweets#1326)
 
 #### Curretnly working on
  - (Game Project B12)
+ - [GD skill capture](https://github.com/shortcakesweets/GD-skill-capture)
 
 #### Finished Projects (Pet projects)
  - [Bard seeded TAS](https://github.com/shortcakesweets/Bard-seeded-tas)
